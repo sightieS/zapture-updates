@@ -1,5 +1,0 @@
-# Zapture update information. Upload this together with Zapture-2.5.2.exe.
-version = 2.5.2
-url = https://raw.githubusercontent.com/sightieS/zapture-updates/main/Zapture-2.5.2.exe
-sha256 = 02289748b8f4d3150de13a2236cf472418f11250b78eb5212167351be6a8dfcd
-size = 9052160

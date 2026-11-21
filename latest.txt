@@ -1,2 +1,2 @@
-2.5.0
+2.4.1
 https://github.com/sightieS/zapture-updates/releases/download/v2.4.1/Zapture-2.4.1-setup.exe

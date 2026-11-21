@@ -1,2 +1,5 @@
-2.4.1
-https://github.com/sightieS/zapture-updates/releases/download/v2.4.1/Zapture-2.4.1-setup.exe
+# Zapture update information. Upload this together with Zapture-2.5.1.exe.
+version = 2.5.1
+url = https://raw.githubusercontent.com/sightieS/zapture-updates/main/Zapture-2.5.1.exe
+sha256 = 35fbd91899f797ef3ebd5457e8074d56589cb7d016e44045ebb5cf942c7bacd8
+size = 9052160

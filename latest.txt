@@ -1,0 +1,6 @@
+# Zapture update information. Upload this together with Zapture-0.7.1.exe.
+version = 0.7.1
+url = https://raw.githubusercontent.com/sightieS/zapture-updates/main/Zapture-0.7.1.exe
+sha256 = 82c4688162d109b29fc38bbde31b46410dafb4bad06c9c395ce39eaab1636b15
+size = 9052160
+notes = - Added about page

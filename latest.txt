@@ -1,2 +1,2 @@
 2.4.0
-https://github.com/<you>/zapture-updates/releases/download/v2.4.0/Zapture-2.4.0-setup.exe
+https://github.com/sightieS/zapture-updates/releases/download/v2.4.0/Zapture-2.4.0-setup.exe

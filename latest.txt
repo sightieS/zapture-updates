@@ -1,6 +1,6 @@
-# Zapture update information. Upload this together with Zapture-0.6.0.exe.
-version = 0.6.0
-url = https://raw.githubusercontent.com/sightieS/zapture-updates/main/Zapture-0.6.0.exe
-sha256 = be2d76ec0cf7d93e31a69793ceb27a4f4e9731aa64292015644f1eaea7eeb2fb
-size = 9682432
-notes = New · Clipping: press Win+Shift+Q to save the last 30 seconds of your screen (length, quality and audio in Settings → Clips) · No separate FFmpeg install: Zapture sets it up for you · Video export: MP4, WebM, GIF or MP3, with resolution, frame rate, speed, rotation and volume · "For Discord": export videos and screenshots under 20 MB, the limit without Nitro · Photo editor: rotate, flip, save as PNG or JPEG · Shortcuts: set any key, including Win combinations, Print Screen, numpad and media keys · Library: select several captures and delete them at once; new Clips filter · New logo and icons · Appearance: corner style, density and a compact sidebar · Fixes · Saving an edited video could freeze on long recordings; exports are also faster now · Deleted captures go to the Recycle Bin instead of being deleted permanently · Some shortcuts couldn't be set or didn't work everywhere · GIF exports now always stay under the chosen size
+# Zapture update information. Upload this together with Zapture-0.6.1.exe.
+version = 0.6.1
+url = https://raw.githubusercontent.com/sightieS/zapture-updates/main/Zapture-0.6.1.exe
+sha256 = 65ceded1e69904ec7f94bbbf002aed0a327616d03483b2538d529330367eb37f
+size = 9691136
+notes = Zapture 0.6.1 · New · Clip sound: a short three-note chime plays when a clip is saved, so you know it worked even in a fullscreen game. Turn it on or off in Settings → Clipping → "Sound when a clip is saved", and press Play to hear it. · Shortcuts without Ctrl, Alt or Win: global shortcuts can now be any key, including a plain letter like G or Shift+G. If you pick a key you type with, Zapture explains that pressing it anywhere will run the action instead of typing. Keys Windows reserves are still blocked. · Website links: Settings → About now links to the Korven website, Privacy Policy, Terms of Service, End User Licence Agreement (new), Contact & support, Report a bug and Feature requests. · Fixes · Links now open the exact section of a page (for example, the FAQ on the support page). · The FFmpeg licence note in Settings → About now says correctly that Zapture downloads FFmpeg for you.

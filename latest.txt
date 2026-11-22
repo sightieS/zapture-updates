@@ -1,6 +1,6 @@
-# Zapture update information. Upload this together with Zapture-0.7.1.exe.
-version = 0.7.1
-url = https://raw.githubusercontent.com/sightieS/zapture-updates/main/Zapture-0.7.1.exe
-sha256 = 82c4688162d109b29fc38bbde31b46410dafb4bad06c9c395ce39eaab1636b15
-size = 9052160
-notes = - Added about page
+# Zapture update information. Upload this together with Zapture-0.5.1.exe.
+version = 0.5.1
+url = https://raw.githubusercontent.com/sightieS/zapture-updates/main/Zapture-0.5.1.exe
+sha256 = 96ef866d85e942c86d3efefd3d96ab7005ca7c03a50d64b86d9d697f589fb54d
+size = 9069056
+notes = Zapture 0.5.1 · Fixes · - Notifications no longer appear inside a black box · - Notification titles and messages are no longer cut off; cards grow to fit, and longer ones stay on screen longer · - The recording card now shows your actual stop shortcut · - Settings pages no longer get cut off at the side in smaller windows (all settings rows, Shortcuts and About) · - Long names in drop-downs are shortened with "…" instead of stretching the row · - Pop-up messages wrap instead of running off the window · - Long file names in the screenshot editor no longer overlap the tools

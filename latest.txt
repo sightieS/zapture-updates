@@ -1,6 +1,6 @@
-# Zapture update information. Upload this together with Zapture-1.2.1.exe.
-version = 1.2.1
-url = https://raw.githubusercontent.com/sightieS/zapture-updates/main/Zapture-1.2.1.exe
-sha256 = 45822fc51e62a89b6705daf9fa75472954ff1ae97bf26d13724ef7e1dc28f2f9
+# Zapture update information. Upload this together with Zapture-1.2.2.exe.
+version = 1.2.2
+url = https://raw.githubusercontent.com/sightieS/zapture-updates/main/Zapture-1.2.2.exe
+sha256 = 87a0c823db0b12f36c4d72a46722c137c1fbb56cdb6c9a7ba41ec7a566cca00f
 size = 10768896
-notes = Zapture 1.2.1 · Fixed · - **Pictures opened in the editor had no tools.** · - The image editor's top bar is laid out again from left to right. · - It shows Select, Crop, Pen, Highlighter, Arrow, Line, Rectangle, Ellipse, Text, Blur, Pixelate, Undo/Redo, Copy text, Pin, Save, Copy and More. · - In a narrow window it moves onto a second line instead of losing buttons. The window can't be made narrower than the tools need. · - **Win+Shift+S opened Snipping Tool while Zapture's own window was in front.** · - When Zapture is in front and you hold Win and Shift, Zapture tells Windows not to run other apps' shortcuts. Snipping Tool's Win+Shift+S is one of them, so S reaches Zapture and opens the selector. · - Win+Shift+R works the same way. · - Once you let go of Win or Shift, everything is back to normal: Win+E, Win+D and the rest work with Zapture in front. · - Each press is noted in Zapture's log (Settings → Advanced → Open log folder → zapture.log), including whether the keyboard hook saw the key, in case anything still goes wrong.
+notes = Zapture 1.2.2 · Fixed · - **The image editor had no tools with gradient themes.** The image editor opens when you open a saved screenshot or use Edit with Zapture. With a gradient theme, it painted the theme's background over both toolbar rows (tools, then colours and sizes), so only the picture showed. The background is now painted first, under everything, as the main window already does.

@@ -1,6 +1,6 @@
-# Zapture update information. Upload this together with Zapture-1.2.2.exe.
-version = 1.2.2
-url = https://raw.githubusercontent.com/sightieS/zapture-updates/main/Zapture-1.2.2.exe
-sha256 = 87a0c823db0b12f36c4d72a46722c137c1fbb56cdb6c9a7ba41ec7a566cca00f
-size = 10768896
-notes = Zapture 1.2.2 · Fixed · - **The image editor had no tools with gradient themes.** The image editor opens when you open a saved screenshot or use Edit with Zapture. With a gradient theme, it painted the theme's background over both toolbar rows (tools, then colours and sizes), so only the picture showed. The background is now painted first, under everything, as the main window already does.
+# Zapture update information. Upload this together with Zapture-1.2.3.exe.
+version = 1.2.3
+url = https://raw.githubusercontent.com/sightieS/zapture-updates/main/Zapture-1.2.3.exe
+sha256 = 8bf09b8387ce2c4ac72ba74e31c73377908019000302e61b804992dd1b015d1e
+size = 10786304
+notes = Zapture 1.2.3 · Fixed · - **Closing Zapture could leave a black box on the screen.** · - Windows animates a window closing from a snapshot of it. For Zapture's own-drawn, see-through windows, that snapshot could come out black and stay on screen. · - Zapture's windows now disappear at once, with no animation: the main window when it goes to the tray, and notifications and pinned pictures when they close. · - When Zapture quits, every window it has disappears at once. It used to put the main window back on screen for a moment first, undrawn. · - **The pen and highlighter make a dot when you click once**, in the region editor and the image editor. It's as wide as the pen and saved in the picture; Ctrl+Z removes it. · - **Text you're typing no longer wraps onto a new line.** · - The text box starts wider, grows ahead of what you type, and keeps each line on one line, as it will be saved. · - Use Shift+Enter for a new line, and Enter to finish.
